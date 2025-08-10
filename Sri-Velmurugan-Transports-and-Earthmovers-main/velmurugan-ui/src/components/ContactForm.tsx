@@ -232,7 +232,7 @@ const ContactForm: React.FC<ContactFormProps> = ({ services, onSubmit }) => {
                   <img src={instagramIcon} alt="Instagram" className="w-6 h-6" />
                 </div>
                 <h4 className="font-semibold text-neutral-800 dark:text-white mb-1 text-sm">Instagram</h4>
-                <p className="text-neutral-600 dark:text-neutral-400 text-xs break-words">srivelmurugan_earthmovers</p>
+                <p className="text-neutral-600 dark:text-neutral-400 text-xs break-words">srivelmurugan_transport</p>
               </div>
             </div>
           </div>
