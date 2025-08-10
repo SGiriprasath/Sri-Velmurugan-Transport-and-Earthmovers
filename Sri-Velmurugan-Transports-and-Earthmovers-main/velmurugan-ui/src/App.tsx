@@ -361,14 +361,14 @@ function App() {
               {/* Clean Trust Badge */}
               <div className="inline-block bg-white/10 backdrop-blur-md rounded-2xl p-4 sm:p-6 border border-white/20 shadow-xl">
                 <div className="text-3xl sm:text-4xl mb-2 sm:mb-3 animate-bounce">⭐</div>
-                <div className="text-white font-bold text-lg sm:text-xl mb-1">Trusted by 100+ Clients</div>
+                <div className="text-white font-bold text-lg sm:text-xl mb-1">Trusted by 1000+ Clients</div>
                 <div className="text-neutral-400 text-xs sm:text-sm">Across the Region</div>
               </div>
               
               {/* Clean Stats Grid */}
               <div className="grid grid-cols-2 gap-3 sm:gap-4">
                 <div className="bg-white/5 backdrop-blur-md rounded-xl p-3 sm:p-4 border border-white/10 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
-                  <div className="text-xl sm:text-2xl font-bold text-primary-700 mb-1">100+</div>
+                  <div className="text-xl sm:text-2xl font-bold text-primary-700 mb-1">1000+</div>
                   <div className="text-neutral-300 text-xs sm:text-sm font-medium">Happy Clients</div>
                 </div>
                 <div className="bg-white/5 backdrop-blur-md rounded-xl p-3 sm:p-4 border border-white/10 shadow-lg hover:shadow-xl transition-all duration-300 transform hover:-translate-y-1">
